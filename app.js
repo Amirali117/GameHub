@@ -8,7 +8,7 @@
       description:"Explore Los Santos, take on high-stakes missions, and discover a vast open world.",
       image:"assets/gta-v.jpg", backdrop:"assets/gta-v.jpg",
       tags:["OPEN WORLD","ACTION","ONLINE SESSION"],
-      launchUrl:"https://t.co/8r990RLwpe"
+      launchUrl:"https://playgta5.net"
     },
     {
       id:"black-ops", name:"Call of Duty: Black Ops", hero:"CALL OF DUTY<br><span>BLACK OPS</span>",
